@@ -1,4 +1,4 @@
-This repository is for the development of <b>Processing</b> code, an open-source language for, amoung many other applications, data visualization. 
+This repository is for the development of <b>Processing</b> code, an open-source language for, among many other applications, data visualization. 
 
 Please check out http://processing.org for details!
 
